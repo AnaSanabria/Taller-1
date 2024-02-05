@@ -1,0 +1,13 @@
+tipo:gasolina2:20:2.0
+tipo:gasolina3:30:3.0
+tipo:gasolina4:40:4.0
+tipo:gasolina1:10:1.0
+surtidor:Manuel:gasolina2:0.0:gasolina3:0.0:gasolina4:0.0:gasolina1:0.0
+surtidor:Juan:gasolina2:0.0:gasolina3:0.0:gasolina4:0.0:gasolina1:0.0
+surtidor:Luis:gasolina2:0.0:gasolina3:0.0:gasolina4:0.0:gasolina1:0.0
+surtidor:Manuel:gasolina2:0.0:gasolina3:0.0:gasolina4:0.0:gasolina1:0.0
+empleado:Emily:0
+empleado:Luis:0
+empleado:Alvaro:0
+empleado:Juan:0
+empleado:Manuel:0
